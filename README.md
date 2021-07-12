@@ -3,7 +3,7 @@
 
 
 
-#Smart contract client 
+##Smart contract client 
 
 A sample client application to interact with Smart contract deployed on Ropsten test network.
 Build with React JS
