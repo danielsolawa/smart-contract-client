@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+
+
+
+
+
+#Smart contract client 
+
+A sample client application to interact with Smart contract deployed on Ropsten test network.
+Build with React JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
